@@ -8,14 +8,6 @@ This repository should be used alongside [Prismic's Crash Course guide][prismic-
 
 ## 🚀 Quick start
 
-The fastest way to learn Prismic is with a hands-on demo.
-
-```sh
-npx degit https://github.com/prismicio-community/crash-course-next crash-course-next
-cd crash-course-next
-npx @slicemachine/init@latest
-```
-
 With these commands, you’ll get a fully-featured Prismic website to test out.
 
 You’ll be asked to log in with a Prismic account and name a new Prismic content repository. Go ahead and name the repository anything you want.
@@ -23,6 +15,8 @@ You’ll be asked to log in with a Prismic account and name a new Prismic conten
 Once the app is created, navigate into the app directory and start it up.
 
 ```sh
+npm install
+
 npm run dev
 ```
 
