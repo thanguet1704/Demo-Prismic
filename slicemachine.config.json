@@ -1,0 +1,6 @@
+{
+  "libraries": ["./src/slices"],
+  "repositoryName": "focused-croissant-i7ykig",
+  "adapter": "@slicemachine/adapter-next",
+  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator"
+}
